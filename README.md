@@ -82,7 +82,7 @@ After `finalize`, the same checks run in GitHub Actions.
 
 ## Status
 
-Personal starter template, created in March 2026 and not changed since.
+Archived, snapshot of 2026. Superseded by [laravel-base](https://github.com/okarabudka/laravel-base), which installs the latest Laravel on first start in the same way and adds tests, CI and a production build.
 
 ## License
 
